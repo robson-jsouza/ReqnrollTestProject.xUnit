@@ -1,0 +1,9 @@
+{
+  "reqnroll": {
+    "language": "en",
+    "unitTestProvider": "xUnit",
+    "generator": {
+      "allowDebugGeneratedFiles": false
+    }
+  }
+}
